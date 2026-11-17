@@ -50,6 +50,10 @@
 
 실내 침수가 감지되면 팬도 함께 멈추고 릴레이로 전원을 차단합니다.
 
+## 기초
+
+ATmega128 레지스터 제어는 빛돌(BITDOL) 동아리 교육과정에서 익혔습니다. 학습 기록: [atmega128-study](https://github.com/yjh030418/atmega128-study)
+
 ## 개발 환경
 
 `ATmega128 @ 16 MHz` `C (avr-gcc)` `Microchip Studio` `STK500` `PuTTY`
